@@ -1,0 +1,15 @@
+{
+  "Display": {
+    "EnableActionCheck": true,
+    "EnableInventoryTooltip": true,
+    "MinRole": "Member",
+    "CooldownSeconds": 5,
+    "LookAtMaxDistance": 6.0
+  },
+  "Formatting": {
+    "ShowDays": true,
+    "ShowHours": true,
+    "ShowMinutes": true,
+    "RoundUpMinutesUnder": 2
+  }
+}

@@ -1,0 +1,9 @@
+KEY,pt-BR,en-US
+ETF_ACTION_CHECK_UPKEEP,Ver manutenção,Check upkeep
+ETF_NOTIFY_TITLE,Território,Territory
+ETF_NOTIFY_COOLDOWN,Aguarde %1 s para consultar novamente.,Wait %1 s before requesting again.
+ETF_NOTIFY_NO_PERMISSION,Você não tem permissão para ver a manutenção desta bandeira.,You don't have permission to view this flag's upkeep.
+ETF_NOTIFY_TOO_FAR,Aproxime-se mais da bandeira para consultar.,Move closer to the flag to check.
+ETF_NOTIFY_RESULT,Upkeep restante: %1,Remaining upkeep: %1
+ETF_TOOLTIP_UPKEEP,Upkeep: %1,Upkeep: %1
+ETF_TOOLTIP_LOADING,Calculando upkeep...,Fetching upkeep...
